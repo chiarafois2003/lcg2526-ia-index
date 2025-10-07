@@ -1,0 +1,8 @@
+{
+    "name": "Alessandro",
+    "age": 28,
+    "hobbies": {
+        "sport": "Ac Milan",
+        "animals": "gatti"
+    }
+}
